@@ -1,0 +1,66 @@
+{"dialogueID"		: "1", 
+"dialoguePlayer"	: "", 
+"dialogueText"		: "Not now, I'm busy", 
+"reqInv"			: "", 
+"nextDialogues"		: "2",
+"changeStart"		: ""}|
+
+{"dialogueID"		: "2", 
+"dialoguePlayer"	: "Can I go out and play?", 
+"dialogueText"		: "Sure whatever, just don't bring dirt back into the house.", 
+"reqInv"			: "", 
+"nextDialogues"		: "3",
+"changeStart"		: ""}|
+
+{"dialogueID"		: "3", 
+"dialoguePlayer"	: "I won't make a mess", 
+"dialogueText"		: "Grab me a beer before you leave", 
+"reqInv"			: "", 
+"nextDialogues"		: "4",
+"changeStart"		: ""}|
+
+{"dialogueID"		: "4", 
+"dialoguePlayer"	: "okay", 
+"dialogueText"		: "good boy", 
+"reqInv"			: "", 
+"nextDialogues"		: "0",
+"changeStart"		: "5"}|
+
+
+
+{"dialogueID"		: "5", 
+"dialoguePlayer"	: "", 
+"dialogueText"		: "Have you got my beer yet?", 
+"reqInv"			: "", 
+"nextDialogues"		: "6/7/8",
+"changeStart"		: ""}|
+
+{"dialogueID"		: "6", 
+"dialoguePlayer"	: "Not yet", 
+"dialogueText"		: "Well hurry up would you! I'm getting thirsty", 
+"reqInv"			: "", 
+"nextDialogues"		: "0",
+"changeStart"		: ""}|
+
+{"dialogueID"		: "7", 
+"dialoguePlayer"	: "I don't like it when you drink", 
+"dialogueText"		: "Mom has to drink to deal with you and your father, so get me my drink", 
+"reqInv"			: "", 
+"nextDialogues"		: "0",
+"changeStart"		: ""}|
+
+{"dialogueID"		: "8", 
+"dialoguePlayer"	: "Here you go", 
+"dialogueText"		: "Nice and cold, now get out of here", 
+"reqInv"			: "ITEM_BEER", 
+"nextDialogues"		: "0",
+"changeStart"		: "9"}|
+
+
+
+{"dialogueID"		: "9", 
+"dialoguePlayer"	: "", 
+"dialogueText"		: "What are you still doing here? Get going", 
+"reqInv"			: "", 
+"nextDialogues"		: "0",
+"changeStart"		: ""}
